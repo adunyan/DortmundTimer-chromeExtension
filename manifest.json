@@ -1,0 +1,13 @@
+{
+  "name": "Borussia Dortmund Timer",
+  "version": "0.1",
+  "manifest_version": 2,
+  "description": "これでボルシア・ドルトムントの試合を見逃さない！！",
+  "permissions": ["tabs", "http://*/*"],
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Borussia Dortmund Timer",
+    "default_popup": "pop.html"
+  }
+}

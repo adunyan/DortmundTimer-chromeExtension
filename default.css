@@ -1,0 +1,13 @@
+#container{
+  margin: 0 auto;
+  /*border: 1px solid #000;*/
+  position: relative;
+  min-width: 500px;
+  width: 500px;
+  height: 900px;
+}
+
+img#emblem{
+  top: 150px;
+  right: 0;
+}
